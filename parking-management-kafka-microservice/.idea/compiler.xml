@@ -7,8 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="park-management" />
+        <module name="van-microservice" />
         <module name="base-domains" />
+        <module name="motocycle-microservice" />
+        <module name="park-management" />
+        <module name="car-microservice" />
         <module name="email-service" />
       </profile>
     </annotationProcessing>
@@ -16,8 +19,11 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="base-domains" options="-parameters" />
+      <module name="car-microservice" options="-parameters" />
       <module name="email-service" options="-parameters" />
+      <module name="motocycle-microservice" options="-parameters" />
       <module name="park-management" options="-parameters" />
+      <module name="van-microservice" options="-parameters" />
     </option>
   </component>
 </project>

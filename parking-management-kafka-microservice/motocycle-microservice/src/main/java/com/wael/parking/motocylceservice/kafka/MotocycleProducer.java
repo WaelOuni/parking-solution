@@ -1,4 +1,4 @@
-package com.wael.parking.parkmanagement.kafka;
+package com.wael.parking.motocylceservice.kafka;
 
 import com.wael.parking.basedomains.dto.VehiculeEvent;
 import org.apache.kafka.clients.admin.NewTopic;
@@ -11,14 +11,14 @@ import org.springframework.messaging.support.MessageBuilder;
 import org.springframework.stereotype.Service;
 
 @Service
-public class CarProducer {
-    private static final Logger LOGGER = LoggerFactory.getLogger(CarProducer.class);
+public class MotocycleProducer {
+    private static final Logger LOGGER = LoggerFactory.getLogger(MotocycleProducer.class);
 
     private NewTopic topic;
 
     private KafkaTemplate<String, VehiculeEvent> kafkaTemplate;
 
-    public CarProducer(NewTopic topic, KafkaTemplate<String, VehiculeEvent> kafkaTemplate) {
+    public MotocycleProducer(NewTopic topic, KafkaTemplate<String, VehiculeEvent> kafkaTemplate) {
         this.topic = topic;
         this.kafkaTemplate = kafkaTemplate;
     }

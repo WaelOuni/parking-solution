@@ -1,9 +1,8 @@
-package com.wael.parking.parkmanagement.controller;
+package com.wael.parking.carservice.controller;
 
 import com.wael.parking.basedomains.dto.Car;
-import com.wael.parking.basedomains.dto.Vehicule;
 import com.wael.parking.basedomains.dto.VehiculeEvent;
-import com.wael.parking.parkmanagement.kafka.CarProducer;
+import com.wael.parking.carservice.kafka.CarProducer;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
