@@ -7,6 +7,13 @@
         <option value="$PROJECT_DIR$/base-domains/pom.xml" />
         <option value="$PROJECT_DIR$/email-service/pom.xml" />
         <option value="$PROJECT_DIR$/park-management/pom.xml" />
+        <option value="$PROJECT_DIR$/car-service/pom.xml" />
+        <option value="$PROJECT_DIR$/motocylce-service/pom.xml" />
+        <option value="$PROJECT_DIR$/van-service/pom.xml" />
+        <option value="$PROJECT_DIR$/motocycle-service/pom.xml" />
+        <option value="$PROJECT_DIR$/car-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/van-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/motocycle-microservice/pom.xml" />
       </list>
     </option>
   </component>
