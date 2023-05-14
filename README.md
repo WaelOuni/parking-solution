@@ -10,3 +10,5 @@ Tasks :
  - Add consumer to our topic in parking management
 # feature/0002-manage-events
  - Manage the events from different vehicule type in Parking module
+# feature/0003-create-main-pom @Ghassen
+ - Create main pom in the project to regroup all microservices
