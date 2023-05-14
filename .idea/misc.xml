@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/base-domains/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/car-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/email-service/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/motocycle-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/park-management/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/van-microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/basedomain/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/car_microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/email_microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/motocycle_microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/parking_management_microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/parking-management-kafka-microservice/van_microservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
