@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/parking-management-kafka-microservice/motocycle_microservice/pom.xml" />
         <option value="$PROJECT_DIR$/parking-management-kafka-microservice/parking_management_microservice/pom.xml" />
         <option value="$PROJECT_DIR$/parking-management-kafka-microservice/van_microservice/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>

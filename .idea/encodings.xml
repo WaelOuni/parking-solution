@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/basedomain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basedomain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/car_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/car_microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/email_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/email_microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/motocycle_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/motocycle_microservice/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/parking-management-kafka-microservice/basedomain/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/parking-management-kafka-microservice/car_microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/parking-management-kafka-microservice/email_microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/parking-management-kafka-microservice/motocycle_microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/parking-management-kafka-microservice/parking_management_microservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/parking-management-kafka-microservice/van_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parking_management_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/parking_management_microservice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/van_microservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/van_microservice/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -2,13 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/parking-management-kafka-microservice/basedomain/basedomain.iml" filepath="$PROJECT_DIR$/parking-management-kafka-microservice/basedomain/basedomain.iml" />
-      <module fileurl="file://$PROJECT_DIR$/parking-management-kafka-microservice/car_microservice/car_microservice.iml" filepath="$PROJECT_DIR$/parking-management-kafka-microservice/car_microservice/car_microservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/parking-management-kafka-microservice/email_microservice/email_microservice.iml" filepath="$PROJECT_DIR$/parking-management-kafka-microservice/email_microservice/email_microservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/parking-management-kafka-microservice/motocycle_microservice/motocycle_microservice.iml" filepath="$PROJECT_DIR$/parking-management-kafka-microservice/motocycle_microservice/motocycle_microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basedomain/basedomain.iml" filepath="$PROJECT_DIR$/basedomain/basedomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car_microservice/car_microservice.iml" filepath="$PROJECT_DIR$/car_microservice/car_microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email_microservice/email_microservice.iml" filepath="$PROJECT_DIR$/email_microservice/email_microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/motocycle_microservice/motocycle_microservice.iml" filepath="$PROJECT_DIR$/motocycle_microservice/motocycle_microservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/parking-solution.iml" filepath="$PROJECT_DIR$/.idea/parking-solution.iml" />
-      <module fileurl="file://$PROJECT_DIR$/parking-management-kafka-microservice/parking_management_microservice/parking_management_microservice.iml" filepath="$PROJECT_DIR$/parking-management-kafka-microservice/parking_management_microservice/parking_management_microservice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/parking-management-kafka-microservice/van_microservice/van_microservice.iml" filepath="$PROJECT_DIR$/parking-management-kafka-microservice/van_microservice/van_microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking_management_microservice/parking_management_microservice.iml" filepath="$PROJECT_DIR$/parking_management_microservice/parking_management_microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parking_solution.iml" filepath="$PROJECT_DIR$/parking_solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/van_microservice/van_microservice.iml" filepath="$PROJECT_DIR$/van_microservice/van_microservice.iml" />
     </modules>
   </component>
 </project>
