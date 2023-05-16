@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="email_microservice" />
+        <module name="car_microservice" />
+        <module name="motocycle_microservice" />
+        <module name="basedomain" />
+        <module name="parking_management_microservice" />
+        <module name="van_microservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="base-domains" target="1.5" />
+      <module name="basedomain" target="17" />
+      <module name="car-microservice" target="1.5" />
+      <module name="car_microservice" target="17" />
+      <module name="email-service" target="1.5" />
+      <module name="email_microservice" target="17" />
+      <module name="motocycle-microservice" target="1.5" />
+      <module name="motocycle_microservice" target="17" />
+      <module name="park-management" target="1.5" />
+      <module name="parking_management_microservice" target="17" />
+      <module name="van-microservice" target="1.5" />
+      <module name="van_microservice" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="basedomain" options="-parameters" />
+      <module name="car_microservice" options="-parameters" />
+      <module name="email_microservice" options="-parameters" />
+      <module name="motocycle_microservice" options="-parameters" />
+      <module name="parking_management_microservice" options="-parameters" />
+      <module name="van_microservice" options="-parameters" />
+    </option>
+  </component>
+</project>
